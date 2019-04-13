@@ -17,7 +17,7 @@ CUDA and an nvidia graphics card with the latest drivers.
 
 ### Download the Unity Environment
 
-Linux: click here [https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip]
+Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
 
 Unzip and move it into the repo.
 

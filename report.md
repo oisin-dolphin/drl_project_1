@@ -18,7 +18,9 @@ I then updated this to a dueling dqn and the algorithm solved the environment in
 
 The neural network consisted of 4 linear layers. The output is calculated as advantage action estimate (size n_action) + state value estimate (size 1). 
 
-Layers for advantage estimate: n_states -> 64 -> relu -> 32 -> relu -> n_actions. 
+Layers for advantage estimate: n_states -> 64 -> relu -> 32 -> relu -> n_actions.
+
+
 Layers for value estimate: n_states -> 64 -> relu -> 32 -> relu -> 1 (shares first 3 layers with advantage estimate)
 
 
